@@ -1,0 +1,30 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "Optisol Business Solution",
+    "startDate": "Apr, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Developed scalable frontend systems using React, Angular, and TypeScript",
+      "Worked on Integerating Twilio, Razorpay, Quick-book Online",
+      "Reduced load times by 30%",
+      "Conducted code reviews and mentoring sessions",
+      "Collaborated with cross-functional teams"
+    ],
+    "imageSrc": "history/optisol-logo.png"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "Santhila DataBot",
+    "startDate": "Feb, 2022",
+    "endDate": "March, 2023",
+    "experiences": [
+      "Developed dynamic front-end interfaces using React and Redux",
+      "Ensured robust testing with frameworks like Jest and Cypress",
+      "Created reusable UI components to streamline workflows",
+      "Delivered responsive, cross-browser-compatible designs",
+      "Contributed to Agile ceremonies and timely user story delivery"
+    ],
+    "imageSrc": "history/santhila.png"
+  }
+]
