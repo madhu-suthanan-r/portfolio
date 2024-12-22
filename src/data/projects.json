@@ -17,19 +17,28 @@
     "source": "https://github.com/madhu-suthanan-r/static-swipe-ui"
   },
   {
+    "title": "EMI Calculator",
+    "imageSrc": "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/6768746162c055fbd1c6cdba/screenshot_2024-12-22-20-20-29-0000.webp",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "Javascript", "React"],
+    "demo": "https://m-emi-calculator.netlify.app",
+    "source": "https://github.com/madhu-suthanan-r/proto-projects/tree/main/emi-calculator"
+  }, 
+  {
+    "title": "Responsive Layout Design",
+    "imageSrc": "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/67686d423e8f07212f77d84d/screenshot_2024-12-22-19-49-58-0000.webp",
+    "imageFromHost": true,
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://m-holy-grail-layout.netlify.app/",
+    "source": "https://github.com/madhu-suthanan-r/proto-projects/tree/main/Holy%20Grail%20Layout"
+  },
+  {
     "title": "Accordion",
     "imageSrc": "projects/accordion.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["HTML", "CSS", "Javascript"],
-    "demo": "https://https://m-accordian.netlify.app/",
+    "demo": "https://m-accordian.netlify.app/",
     "source": "https://github.com/madhu-suthanan-r/proto-projects/tree/main/Accordian"
-  },
-  {
-    "title": "Responsive Layout Design",
-    "imageSrc": "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/67686d423e8f07212f77d84d/screenshot_2024-12-22-19-49-58-0000.webp",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
   }
 ]
