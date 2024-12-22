@@ -17,8 +17,16 @@
     "source": "https://github.com/madhu-suthanan-r/static-swipe-ui"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
+    "title": "Accordion",
+    "imageSrc": "projects/accordion.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://https://m-accordian.netlify.app/",
+    "source": "https://github.com/madhu-suthanan-r/proto-projects/tree/main/Accordian"
+  },
+  {
+    "title": "Responsive Layout Design",
+    "imageSrc": "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/67686d423e8f07212f77d84d/screenshot_2024-12-22-19-49-58-0000.webp",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
