@@ -40,14 +40,14 @@
   content: '';
   position: absolute;
   inset: -100px 140px;
-  background: linear-gradient(to right, rgba(0, 225, 255, 0.862), rgb(255, 0, 170));
+  background: linear-gradient(315deg, rgba(0, 225, 255, 0.862), rgb(255, 0, 170));
   transition: 0.5s;
   animation: animate 3s linear infinite;
   z-index: 1;
 }
 
 .imageOuterBox:hover::after{
-  inset: -90px -70px;
+  inset: -90px -100px;
 }
 
 @keyframes animate {

@@ -2,9 +2,9 @@
   {
     "title": "Crypto-currency Tracker",
     "imageSrc": "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/675ed38440e2678957c16fa3/screenshot_2024-12-15-13-03-50-0000.webp",
-    "imageFromHost": true, 
+    "imageFromHost": true,
     "description": "This is made with React JS, Material UI and Chart JS",
-    "skills": ["React", "HTML", "CSS", "Chart JS"],
+    "skills": ["React", "Chart JS", "FireBase", "HTML", "Material UI", "CSS"],
     "demo": "https://m-crytpo-tracker.netlify.app",
     "source": "https://github.com/madhu-suthanan-r/crypto-tracker"
   },

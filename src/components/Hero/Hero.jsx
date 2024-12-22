@@ -15,7 +15,7 @@ export const Hero = () => {
           Node.js, I specialize in delivering seamless, scalable, and intuitive
           digital experiences.
         </p>
-        <a href="mailto:rajendranmadhu@email.com" className={styles.contactBtn}>
+        <a href="#contact" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
