@@ -26,6 +26,15 @@
     "source": "https://github.com/madhu-suthanan-r/proto-projects/tree/main/emi-calculator"
   }, 
   {
+    "title": "News App - Inshorts clone",
+    "imageSrc": "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/67714a1c0815e20008738983/screenshot_2024-12-29-13-10-54-0000.webp",
+    "imageFromHost": true,
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "Javascript", "React", "REST API"],
+    "demo": "https://news-app-inshorts-clone.netlify.app/",
+    "source": "https://github.com/madhu-suthanan-r/news-app-inshorts-clone"
+  }, 
+  {
     "title": "Responsive Layout Design",
     "imageSrc": "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/67686d423e8f07212f77d84d/screenshot_2024-12-22-19-49-58-0000.webp",
     "imageFromHost": true,
