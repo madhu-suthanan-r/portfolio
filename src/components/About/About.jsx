@@ -6,7 +6,7 @@ import { getImageUrl } from "../../utils";
 export const About = () => {
   return (
     <section className={styles.container} id="about">
-      <h2 className={styles.title}>About</h2>
+      <h2 className={styles.title}>Core Expertise</h2>
       <div className={styles.content}>
         <div className={styles.imageOuterBox}>
           <div className={styles.imageInnerBox}>
@@ -20,30 +20,27 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+             <h3>Frontend Development</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+              Building responsive, high-performance web applications with modern frameworks, optimizing user experience and accessibility.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+            <h3>Backend Development</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+              Scalable microservices, API design, database management, and cloud-based architectures with a focus on performance and maintainability.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>System Design & Optimization</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+              Architecting efficient, scalable solutions, enhancing application performance, and ensuring secure, maintainable code.
               </p>
             </div>
           </li>
