@@ -15,7 +15,7 @@ export const Hero = () => {
           Node.js, I specialize in delivering seamless, scalable, and intuitive
           digital experiences.
         </p> */}
-        <p>
+        <p className={styles.description}>
         A Full-Stack Developer with a strong focus on scalability, performance optimization, and system design. I specialize in building and optimizing high-performance, enterprise-grade applications with a deep understanding of backend architecture, API design, and cloud-based solutions. Passionate about solving complex engineering challenges, I thrive in agile, fast-paced environments, delivering efficient and maintainable software solutions.
         </p>
         <a href="#contact" className={styles.contactBtn}>

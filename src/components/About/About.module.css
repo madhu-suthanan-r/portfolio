@@ -142,6 +142,13 @@
   font-size: 25px;
 }
 
+.aboutItem img {
+  width: 3.5rem;
+  height: 3.5rem;
+  margin-right: 1.5rem;
+  filter: brightness(0) saturate(100%) invert(76%) sepia(56%) saturate(524%) hue-rotate(140deg) opacity(86%);
+}
+
 @media screen and (max-width: 830px) {
   .container {
     background-color: transparent;

@@ -19,13 +19,58 @@
     "title": "Node",
     "imageSrc": "skills/node.png"
   },
+  {
+    "title": "TypeScript",
+    "imageSrc": "skills/typescript.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
  
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "Spring",
+    "imageSrc": "skills/spring.png"
+  },
+  {
+    "title": "Spring Boot",
+    "imageSrc": "skills/springboot.png"
+  },
+  {
+    "title": "PostgresSQL",
+    "imageSrc": "skills/postgres.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
   {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "skills/aws.png"
+  },
+  {
+    "title": "PHP",
+    "imageSrc": "skills/php.png"
+  },
+  {
+    "title": "Git & GitHub",
+    "imageSrc": "skills/git.png"
+  },
+  {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
   }
+  
 ]

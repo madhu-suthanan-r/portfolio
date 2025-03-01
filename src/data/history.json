@@ -4,12 +4,19 @@
     "organisation": "Optisol Business Solution",
     "startDate": "Apr, 2023",
     "endDate": "Present",
-    "experiences": [
+    "old-experiences": [
       "Developed scalable frontend systems using React, Angular, and TypeScript",
       "Worked on Integerating Twilio, Razorpay, Quick-book Online",
       "Reduced load times by 30%",
       "Conducted code reviews and mentoring sessions",
       "Collaborated with cross-functional teams"
+    ],
+    "experiences": [
+      "Designed and developed scalable, high-performance microservices using Java, Spring Boot, and Node.js.",
+      "Optimized backend systems, reducing API response times and improving database efficiency.",
+      "Engineered RESTful APIs and GraphQL services, ensuring seamless frontend-backend communication.",
+      "Led code reviews, mentored junior developers, and enforced clean architecture and secure coding practices.",
+      "Built and optimized enterprise applications, including a real-time communication platform integrating Twilio & Zoom."
     ],
     "imageSrc": "history/optisol-logo.png"
   },
@@ -18,13 +25,32 @@
     "organisation": "Santhila DataBot",
     "startDate": "Feb, 2022",
     "endDate": "March, 2023",
-    "experiences": [
+    "old-experiences": [
       "Developed dynamic front-end interfaces using React and Redux",
       "Ensured robust testing with frameworks like Jest and Cypress",
       "Created reusable UI components to streamline workflows",
       "Delivered responsive, cross-browser-compatible designs",
       "Contributed to Agile ceremonies and timely user story delivery"
     ],
+    "experiences": [
+      "Developed and maintained full-stack applications, implementing React.js, Angular, and TypeScript on the frontend.",
+      "Built secure and scalable backend services with Java Spring Boot and Node.js, integrating complex business logic.",
+      "Developed and optimized database architectures in MySQL, PostgreSQL, and MongoDB for high-performance applications.",
+      "Ensured high code quality and test coverage using JUnit, Jest, and Cypress, improving reliability.",
+      "Worked in Agile environments, collaborating with cross-functional teams to deliver scalable enterprise solutions."
+    ],
     "imageSrc": "history/santhila.png"
+  },
+  {
+    "role": "Proposals Engineer",
+    "organisation": "Emerson (Fisher Chennai Engineering Center)",
+    "startDate": "Aug, 2019",
+    "endDate": "Dec, 2020",
+    "experiences": [
+      "Analyzed and optimized engineering workflows, improving operational efficiency through automation.",
+      "Worked with cross-functional teams to streamline project proposals and cost estimation.",
+      "Enhanced documentation processes, ensuring accuracy and compliance with industry standards."
+    ],
+    "imageSrc": "history/emerson.png"
   }
 ]
